@@ -1,0 +1,3 @@
+[submodule "desock-replayer"]
+	path = desock-replayer
+	url = https://github.com/nnamon/desock-replayer.git
