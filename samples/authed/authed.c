@@ -65,7 +65,6 @@ void run() {
     write(connfd, "Closed connection\n", 18);
 
     close(connfd);
-    sleep(1);
 }
 
 int main(int argc, char ** argv) {
